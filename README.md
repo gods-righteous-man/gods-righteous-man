@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gaurav Makasare (Github - @gods-righteous-man) and I am a currently a third sem graduate student at the University of Southern California pursuing my MS in Computer Sceince
+- 👋 Hi, I’m Gaurav Makasare (Github - @gods-righteous-man) and I am a currently a final sem graduate student at the University of Southern California pursuing my MS in Computer Sceince
 - 🧐 I’m interested in developing applications that help solve complex problems with the help of my knowledge in computer science.
 - 🐳 I’m currently learning concepts of Docker, Kubernetes and also brushing up on my existing skills.
 - 💞️ I’m looking for full time software developer opportunities for new grads as I will be graduating in May of 2023.
