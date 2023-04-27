@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm ’m Gaurav Makasare (Github - @gods-righteous-man) and I am a currently a final sem graduate student at the University of Southern California pursuing my MS in Computer Sceince</h1>
+<h1 align="center">Hi 👋, I'm ’m Gaurav Makasare a grad student @ USC/h1>
 <h3 align="center">An aspiring Software Developer based in California, US</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.wallpapersafari.com/84/22/Jz6bAs.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.wallpapersafari.com/84/22/Jz6bAs.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gods-righteous-man&label=Profile%20views&color=0e75b6&style=flat" alt="gods-righteous-man" /> </p>
 
