@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gods-righteous-man.github.io/](https://gods-righteous-man.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@makasare](https://medium.com/@makasare)
+- 📝 I sometimes write articles on [https://medium.com/@makasare](https://medium.com/@makasare)
 
 - 💬 Ask me about **React, MongoDB, Node, Python, JS, etc**
 
