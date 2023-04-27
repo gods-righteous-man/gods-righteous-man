@@ -1,10 +1,10 @@
 <!-- <img align="center" alt="Coding" width="900" src="https://i.pinimg.com/originals/4a/b3/6d/4ab36d11242697de88e19c1e6c158b65.gif" padding-left="10%"> -->
 
 <p align="center">
-  <img width="600" height="400" src="https://i.pinimg.com/originals/4a/b3/6d/4ab36d11242697de88e19c1e6c158b65.gif">
+  <img width="900" height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE1YzkxNTJjYjZmNzc3OTVmNjhhMDhmNTlhMzZmZmQ0ODYxOThiOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/pOEbLRT4SwD35IELiQ/giphy.gif">
 </p>
 <h1 align="center">Hi, I'm Gaurav</h1>
-<h3 align="center">A grad student @ USC and aspiring Software Developer</h3>
+<h3 align="center">A grad student @ USC and an aspiring Software Developer</h3>
 
 
 
